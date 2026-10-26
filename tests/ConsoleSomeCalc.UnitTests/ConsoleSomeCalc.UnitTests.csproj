@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\COnsoleSOmeCalc\ConsoleSOmecalc.csproj" />
+    <ProjectReference Include="..\..\src\ConsoleSomeCalc\ConsoleSomeCalc.csproj" />
   </ItemGroup>
 
 </Project>
